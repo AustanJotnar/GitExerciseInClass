@@ -1,0 +1,4 @@
+GitExerciseInClass
+==================
+
+Git í dæmatíma
