@@ -42,3 +42,4 @@ Movies list:
 5)  Fear and loathing Las Vegas
 6)  The Untouchables
 7)  The Hitchhiker's Guide To the Galaxy
+8)  The Rock
